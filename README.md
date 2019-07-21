@@ -36,3 +36,6 @@ Current **TODO** list :
 3) Beautify the interface [ ]
 
 4) Add resizing and other functionalities [ ]
+
+
+Note - All the images in this repo are property of their respective owners and were taken from unsplash dot com.
