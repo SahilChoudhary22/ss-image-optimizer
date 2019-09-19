@@ -1,5 +1,6 @@
 # <center>Super Simple Image Optimizer
-
+![](https://i.ibb.co/PChNmgp/Black-Lightning-Icon-Music-Logo-1.jpg)
+  
 **A python application to optimize images.**
 Uses Python 3.x
 
